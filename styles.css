@@ -1,4 +1,10 @@
 /*  your css code here. If applicable */
 .main-container{
-	display:flex
+	background-color:lightgray;	
+}
+.list{
+	padding:10px;
+	display:fex;
+	justify-content:center;
+	align-items:center;
 }
